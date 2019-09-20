@@ -10,7 +10,7 @@
 
 RESTful APIs are a particular category of APIs that follow very strict format and are quite popular for using external services. *REST* is an acronym which stands for "REpresentational State Transfer". The following resources provide a great foundation for using this technology.
 
-[REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4) - fairly long video but should be viewed before accessing any of the other resources. It presents a thorough explanation of REST services using basic coding examples.MORE
+[REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4) - fairly long video but should be viewed before accessing any of the other resources. It presents a thorough explanation of REST services using basic coding examples.
 
 [RESTful Web Services Tutorial with Example](https://www.guru99.com/restful-web-services.html) -example of calling APIs through Microsoft’s .NET framework
 
