@@ -14,9 +14,6 @@ Developing applications to incorporate APIs requires a complete development envi
 
 - [Sublime Text Basics: All the Best Features in One Video](https://www.youtube.com/watch?v=zIkg3Oo1PVM) - 15 minute video that will get you familiar with many cool features.
 
-[Visual Studio Code](https://code.visualstudio.com/) - a source code editor developed by Windows and released as open source (Free!) It is available for Windows, Mac and Linux.
-- [Getting started with Video Studio Code](https://code.visualstudio.com/docs/introvideos/basics) - 3 minute tutorial to get up and running
- - [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos) - large collection of additional instructional tutorials
 
 There are a lot of other text editors on the market:
 - [10 Best JavaScript Editors](https://www.infoworld.com/article/3195951/review-the-10-best-javascript-editors.html)
@@ -27,7 +24,14 @@ There are a lot of other text editors on the market:
 #### Integrated Development Environments (IDE)
 These are the programming environments for writing actual code which is essential if you are going to create an application.
 
-[Eclipse](https://www.eclipse.org/) - extremely extensible open source IDE that supports multiple languages.
+[Visual Studio Code](https://code.visualstudio.com/) - one of the best source code editor available as it supports a wide variety of languages, has a rich community of plugins and works for Windows, Mac and Linux. It offers a built-in terminal window so that you can run your code directly from within the IDE.
+
+Visual Studio Code was developed by Windows and released as open source (Free!)
+
+- [Getting started with Video Studio Code](https://code.visualstudio.com/docs/introvideos/basics) - 3 minute tutorial to get up and running
+- [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos) - large collection of additional instructional tutorials
+
+[Eclipse](https://www.eclipse.org/) - another popular open source IDE. Eclipse is extremely extensible and supports multiple languages.
 
 [CodeAnywhere](https://codeanywhere.com/) - an online IDE that requires no installation.
 
@@ -47,4 +51,4 @@ It is not necessary to have a database to consume APIs. When writing an API, how
 
 [MongoDB](https://www.mongodb.com/) – the most popular open database for JSON objects
 
-- [Getting Started with MongoDB](https://resources.mongodb.com/node-js/getting-started-with-mongodb-node-js-and-restify) - Complete tutorial showing how to use MongoDB with node.js: 
+- [Getting Started with MongoDB](https://resources.mongodb.com/node-js/getting-started-with-mongodb-node-js-and-restify) - Complete tutorial showing how to use MongoDB with node.js:
