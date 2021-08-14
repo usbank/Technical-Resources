@@ -43,7 +43,7 @@ Git is the ubiquitious open source standard for managing code today and is ideal
 
 [Postman](https://www.getpostman.com/) is a great tool to test connections to APIs and ensure that the desired data is being returned. You can also share test cases with other people.
 
-- [Postman Beginner Tutorial](https://www.youtube.com/watch?v=juldrxDrSH00A0 - complete overview provided as part of a YouTube videos lecture series.
+- [Postman Beginner Tutorial](https://www.youtube.com/watch?v=juldrxDrSH00A0) - complete overview provided as part of a YouTube videos lecture series.
 
 #### Databases
 
